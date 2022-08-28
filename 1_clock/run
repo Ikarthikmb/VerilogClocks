@@ -1,0 +1,3 @@
+iverilog clock1.v
+iverilog tb_clock1.v
+vvp a.out

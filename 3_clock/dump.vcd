@@ -1,0 +1,40 @@
+$date
+	Sun Aug 28 16:23:38 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_clock3 $end
+$var wire 1 ! clk3 $end
+$scope module CLKGEN2 $end
+$var reg 1 ! clk3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+$end
+#1
+1!
+#2
+0!
+#3
+1!
+#4
+0!
+#5
+1!
+#6
+0!
+#7
+1!
+#8
+0!
+#9
+1!
+#10
+0!
